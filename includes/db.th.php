@@ -319,7 +319,7 @@
 								"date"			=> "26-04-2558",
 								"stringData"	=> "",
 								"featuredImg"	=> "assets/img/songkran.jpg",
-								"altImg"		=> "Group of people gently sprinkled water on each other Songkran Festival",
+								"altImg"		=> "Membri dell'associazione che festeggiano il Songkran",
 								"category"		=> $eventsType[0],
 								"eventCategory"	=> $eventsCategory['songkran'],
 								"place"			=> "<a href=\"https://www.google.it/maps/place/Via+Salerno,+55,+10152+Torino/@45.08539,7.6774786,17z/\">\"LAS VEGAS\" in Via Salerno 55 - Torino</a>",
